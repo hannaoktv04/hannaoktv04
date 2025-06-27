@@ -23,9 +23,10 @@ const hanna = {
 
 ### 🛠️ My Sparkly Tech Stack
 
-| Front-End                         | Back-End                 | Database                      | Design & Tools                           |
-| --------------------------------- | ------------------------ | ----------------------------- | ---------------------------------------- |
-| `HTML` `CSS` `JavaScript` `React` | `Laravel` `PHP` `Python` | `MySQL` `PostgreSQL` `Oracle` | `Figma` `Adobe XD` `Photoshop` `Tableau` |
+| Front-End                            | Back-End                 | Database                      | Design & Tools                           |
+| ------------------------------------ | ------------------------ | ----------------------------- | ---------------------------------------- |
+| `HTML` `CSS` `JavaScript` `React`    | `Laravel` `PHP` `Python` | `MySQL` `PostgreSQL` `Oracle` | `Figma` `Adobe XD` `Photoshop` `Tableau` |
+| `Tailwind CSS` `Bootstrap` `Flutter` |                          |                               |                                          |
 
 ---
 
